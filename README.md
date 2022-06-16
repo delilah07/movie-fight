@@ -1,2 +1,3 @@
 # movie-fight
-movie app 
+
+movie app : JS, Biulma CSS, Axios
